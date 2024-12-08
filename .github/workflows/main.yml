@@ -3,7 +3,7 @@ name: Build & Deploy React App
 on:
   push:
     branches:
-      - main # Ou master, dependendo do seu repositório
+      - master
 
 jobs:
   build:
